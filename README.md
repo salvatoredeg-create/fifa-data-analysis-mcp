@@ -1,6 +1,6 @@
 # fifa-data-analysis-mcp
 Analisi dati FIFA e sviluppo di server MCP (Model Context Protocol) per l'interrogazione e la visualizzazione statistica.
-# ⚽ Sports Data Analytics: FIFA/FC25 & MCP Framework
+# Sports Data Analytics: FIFA/FC25 & MCP Framework
 
 Questo progetto implementa una soluzione avanzata di **Data Analytics** applicata al dataset di EA Sports FC 25 (16.000+ giocatori). L'obiettivo principale è risolvere il problema delle "allucinazioni numeriche" nei Large Language Models (LLM), garantendo risposte basate su dati certi tramite il protocollo **MCP (Model Context Protocol)**.
 
@@ -21,12 +21,6 @@ Il sistema è strutturato come un ecosistema a microservizi coordinato da un **A
 3. **Analisi:** Il server elabora il file CSV e restituisce i vettori numerici.
 4. **Visualizzazione:** L'AI decide autonomamente di invocare il Server Grafico per mostrare il confronto visivo.
 5. **Risposta:** L'utente riceve dati certificati e grafici pronti all'uso.
-
-## Stack Tecnologico
-* **Linguaggio:** Python 3.x
-* **Data Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib
-* **AI Framework:** Model Context Protocol (MCP), Claude Desktop
 
 ## Contenuto della Repository
 * `progetto.py`: Logica del server di analisi dati.
