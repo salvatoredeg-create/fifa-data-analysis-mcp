@@ -30,4 +30,4 @@ Il sistema è strutturato come un ecosistema a microservizi coordinato da un **A
 * `Presentazione_Risultati.pdf`: Slide di sintesi dell'architettura e dei risultati.
 
 ---
-*Progetto realizzato per l'esame di **Programmazione per la Data Science**.*
+*Progetto realizzato per l'esame di **Programming for Data Science**.*
