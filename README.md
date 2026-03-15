@@ -20,7 +20,7 @@ Il sistema è strutturato come un ecosistema a microservizi coordinato da un **A
 2. **Orchestrazione:** L'LLM seleziona il tool appropriato dal Server Dati.
 3. **Analisi:** Il server elabora il file CSV e restituisce i vettori numerici.
 4. **Visualizzazione:** L'AI decide autonomamente di invocare il Server Grafico per mostrare il confronto visivo.
-5. **Risposta:** L'utente riceve dati certificati e grafici pronti all'uso.
+5. **Risposta:** L'utente riceve dati reali e grafici pronti all'uso.
 
 ## Contenuto della Repository
 * `progetto.py`: Logica del server di analisi dati.
